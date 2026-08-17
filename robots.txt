@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-8vbxve.pulaucuan.com/sitemap.xml
